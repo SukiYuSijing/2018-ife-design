@@ -1,0 +1,29 @@
+body {
+	margin:0;
+	text-align: center;
+}
+
+/*父元素*/
+.card-wrap {
+	display: inline-block;
+	margin: 100px auto;
+	perspective: 800px;
+	transform-style: preserve-3d;
+}
+
+.card {
+	width: 250px;
+	height:350px;
+	background: url('../img/正面.jpg');
+	-webkit-transition: transform .8s linear, background 0.1s linear 0.4s;
+    -moz-transition: transform .8s linear, background 0.1s linear 0.4s;
+	transition: transform .8s linear, background 0.01s linear 0.4s;
+}
+
+.card:hover {
+	-webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+	transform: rotateY(180deg);
+	background: url('../img/反面.jpg');
+}
+

@@ -11,6 +11,9 @@ button {
 }
 .title {
   color: black;
+  -webkit-transition: color 1s;
+  -moz-transition: color 1s;
+  -o-transition: color 1s;
   transition: color 1s;
 }
 .title-blue {
@@ -23,6 +26,9 @@ button {
   background: steelblue;
   margin: -20px auto;
   margin-bottom:60px;
+  -webkit-transition: width .5s ease-out;
+  -moz-transition: width .5s ease-out;
+  -o-transition: width .5s ease-out;
   transition: width .5s ease-out; 
 }
 .bar-display {

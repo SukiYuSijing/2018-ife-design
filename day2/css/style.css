@@ -1,14 +1,15 @@
 * {
   font-weight:bold;
   text-align:center;
-  margin-right:50px;
-  margin-top:20px;
+  margin:0;
   box-sizing:border-box;
 }
 
 div {
   display: inline-block;
   padding-top:18px;
+  margin-right:50px;
+  margin-top:30px;
 }
 
 /* 初始状态 */

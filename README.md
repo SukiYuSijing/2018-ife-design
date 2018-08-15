@@ -7,3 +7,7 @@ demo: http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-desi
 ## Day2: 初步接触 CSS 2D 变形
 
 demo: http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-design/blob/master/day2/index.html
+
+## Day3: CSS transition 和 CSS transform 配合制作动画
+
+demo: http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-design/blob/master/day3/index.html

@@ -38,6 +38,9 @@
     background: #fbf8f1;
     border-radius: 100% 10% 50% 0% ;
     transition: transform 1s ease-out;
+    -webkit-transition: transform 1s ease-out;
+    -moz-transition: transform 1s ease-out;
+    -o-transition: transform 1s ease-out;
 }
 .ear-wrap .right {
     left: auto;
@@ -45,6 +48,9 @@
     border-radius: 10% 100% 0% 50%;
     background: #f1ac2b;
     transition: transform 1s ease-out;
+    -webkit-transition: transform 1s ease-out;
+    -moz-transition: transform 1s ease-out;
+    -o-transition: transform 1s ease-out;
 }
 /* 头发 */
 .hair {
@@ -92,6 +98,9 @@
     left: 50%;
     margin-left: -23px; 
     transition: width 1s ease-out, margin-left 0.4s ease-out 0.6s;
+    -webkit-transition: width 1s ease-out, margin-left 0.4s ease-out 0.6s;
+    -moz-transition: width 1s ease-out, margin-left 0.4s ease-out 0.6s;
+    -o-transition: width 1s ease-out, margin-left 0.4s ease-out 0.6s;
 }
 .eye-bottom {
     height: 50px;
@@ -102,6 +111,9 @@
     border-top: 2px solid #46240b;
     background: #f6f7f2;
     transition: margin-top 1s ease-in-out;
+    -webkit-transition: margin-top 1s ease-in-out;
+    -moz-transition: margin-top 1s ease-in-out;
+    -o-transition: margin-top 1s ease-in-out;
 }
 .eye-wrap .right {
     left: auto;
@@ -119,6 +131,9 @@
     background: #e85a5e;
     opacity: 0.0;
     transition: opacity 0.9s ease-in-out 0.2s;
+    -webkit-transition: opacity 0.9s ease-in-out 0.2s;
+    -moz-transition: opacity 0.9s ease-in-out 0.2s;
+    -o-transition: opacity 0.9s ease-in-out 0.2s;
 }
 /* 鼻子 */
 .nose {
@@ -151,6 +166,9 @@
     position: absolute;
     left: 0;
     transition: border-radius 1s ease-in-out;
+    -webkit-transition:  border-radius 1s ease-in-out;
+    -moz-transition:  border-radius 1s ease-in-out;
+    -o-transition:  border-radius 1s ease-in-out;
 }
 .mouth-wrap .right {
     border-bottom: 4px solid #000;
@@ -161,6 +179,9 @@
     left: auto;
     right: 0;
     transition: border-radius 1s ease-in-out;
+    -webkit-transition:  border-radius 1s ease-in-out;
+    -moz-transition:  border-radius 1s ease-in-out;
+    -o-transition:  border-radius 1s ease-in-out;
 }
 
 /*眼下区域上移*/

@@ -1,0 +1,85 @@
+body {
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	
+}
+
+.thumbnail-wrap {
+	width: 100%; 
+	position: absolute;
+	bottom: 0px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 35px auto;
+}
+
+.thumbnail {
+	margin-right:10px;
+	filter: brightness(0.6);
+	z-index: 1000;
+}
+
+.thumbnail:hover {
+	filter: brightness(1);
+	cursor: pointer;
+}
+
+.pic {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: -10;
+	visibility: hidden;
+}
+
+.pic1 {
+	left: -500px;
+	transition:left  0.5s ease-out;
+}
+
+.pic1-effect {
+	visibility: visible;
+	left:0;
+}
+.pic2 {
+	top:350px;
+	transition: top 0.5s ease-out;
+}
+
+.pic2-effect {
+	visibility: visible;
+	top:0;
+}
+
+.pic3 {
+	transform: scale(0.1);
+	transition:transform  1s ease-in;
+}
+
+.pic3-effect {
+	visibility: visible;
+	transform: scale(1.0);
+}
+
+.pic4 {
+	transform: scale(2.0);
+	transition:transform  1s ease-out;
+}
+
+.pic4-effect {
+	visibility: visible;
+	transform: scale(1.0);
+}
+
+.pic5 {
+	transform: scale(0.1) rotate(-360deg);
+	transition:transform 0.7s ease-in-out;
+}
+
+.pic5-effect {
+	visibility: visible;
+	transform: scale(1.0) rotate(0deg);
+}
+

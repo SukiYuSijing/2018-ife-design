@@ -26,4 +26,4 @@
 
 ### Day7: 使用 animate.css 实现一个优雅的登录框
 
-[demo](http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-design/blob/master/day7/index.html)
+[demo](https://morganhaoyu.github.io/2018-ife-design/day7/index.html)

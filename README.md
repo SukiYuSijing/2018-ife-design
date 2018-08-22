@@ -19,3 +19,7 @@
 ### Day5: 纯 CSS 制作绕中轴旋转的立方体
 
 [demo](http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-design/blob/master/day5/index.html)
+
+### Day6: 利用 CSS animation 制作一个炫酷的 Slider
+
+[demo](http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-design/blob/master/day6/index.html)

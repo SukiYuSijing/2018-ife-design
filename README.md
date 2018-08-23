@@ -27,3 +27,5 @@
 ### Day7: 使用 animate.css 实现一个优雅的登录框
 
 [demo](https://morganhaoyu.github.io/2018-ife-design/day7/index.html)
+
+### Day8: 把 AE 动画转换成 Web 原生动画 [demo](https://morganhaoyu.github.io/2018-ife-design/day8/index.html)

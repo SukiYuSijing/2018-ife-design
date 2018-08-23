@@ -30,4 +30,4 @@
 
 ### Day8: 把 AE 动画转换成 Web 原生动画 
 
-[demo](https://morganhaoyu.github.io/2018-ife-design/day8/index.html)
+[demo](http://htmlpreview.github.io/?https://github.com/morganhaoyu/2018-ife-design/blob/master/day8/index.html)
